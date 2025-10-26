@@ -13,4 +13,3 @@ Date obtained: October 20th, 2025
 
 Verify: https://www.credly.com/badges/85bca6ea-518a-49b9-a76a-234089c85082/public_url
 
-<img width="800" height="618" alt="image" src="https://github.com/user-attachments/assets/0ad3a48f-c49d-4cf3-bb86-bf2947c36fdf" />
