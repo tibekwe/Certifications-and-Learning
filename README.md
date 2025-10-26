@@ -2,7 +2,7 @@
 # Certifications-and-Learning
 Certificates,learning achievements, and projects.  
 
-# CompTIA Security+
+# CompTIA Security+ 
 
 Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any cybersecurity role. CompTIA Security+ professionals know how to identify and address potential threats, attacks and vulnerabilities and they have established techniques in risk management, risk mitigation, threat management and intrusion detection.
 
